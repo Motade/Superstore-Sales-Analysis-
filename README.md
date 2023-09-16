@@ -9,4 +9,20 @@ My aim in this project is to conduct a comprehensive sales analysis that will en
   - Product categories
   - Regions
   - Discount strategies
-  
+### **Data Cleaning Process**
+1. **Dropped Columns:** In the initial phase, I removed the "row id" and "customer id" columns as they were unnecessary for our analysis. Additionally, I dropped the "country" column since all stores are located in the USA.
+
+2. **Duplicate Check:** I conducted a check for duplicate records, and fortunately, no duplicates were found in the dataset.
+
+3. **Creating New Columns:** During data inspection, I identified that the "profit" column contained both profits and losses. To prevent any confusion in our analysis, I introduced two new columns: one for profit and another for loss. I also renamed the original "profit" column to "profit and loss" to better reflect its content and purpose.
+
+Profit : *=IF([@[Profit and Loss]]>0,[@[Profit and Loss]],0)*`
+
+Loss : *=IF([@[Profit and Loss]]<0,[@[Profit and Loss]],0)*`
+
+
+
+![image](https://github.com/Motade/Superstore_Sales_Analysis/assets/114887240/00c22f23-2cb1-4328-90d5-f2c85f801640)
+
+
+
