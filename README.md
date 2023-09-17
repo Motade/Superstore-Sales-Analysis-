@@ -22,7 +22,7 @@ Profit : *=IF([@[Profit and Loss]]>0,[@[Profit and Loss]],0)*`
 
 Loss : *=IF([@[Profit and Loss]]<0,[@[Profit and Loss]],0)*`
 
-### RESULT AND FINDINGS
+### RESULTS AND FINDINGS
 1. Total revenue and profit by product category: Examining revenue and profit by product category reveals that the technology category stands out, generating the highest revenue of $836,154.03, contributing to a substantial 41.59% of the company's profit. It is closely trailed by the office supplies category, with a revenue of $719,047.03, making up 40.47% of the company's profit. In contrast, the furniture category, although generating revenue of $741,718.42, accounts for approximately $79,387.38, representing 17.94% of the company's total profit.
 
  ![image](https://github.com/Motade/Superstore_Sales_Analysis/assets/114887240/09187ab9-15dc-47d5-8a09-bdda60d364e9)
@@ -35,7 +35,7 @@ Loss : *=IF([@[Profit and Loss]]<0,[@[Profit and Loss]],0)*`
 
 ![image](https://github.com/Motade/Superstore_Sales_Analysis/assets/114887240/4a455da0-fcf4-41f4-86a1-16bdff8bbacd)
 
-### RECOMMENDATION
+### RECOMMENDATIONS
 Based on the insights, I recommend the following strategic actions to optimize profitability and market presence:
 
 1. It is crucial to address the Furniture category, which incurred a significant loss and contributed the lowest profit. A thorough review of its product lineup, pricing strategies, and cost-saving measures is necessary.
