@@ -1,4 +1,7 @@
-### PROJECT OBJECTIVE
+
+![Picture1](https://github.com/Motade/Superstore_Sales_Analysis/assets/114887240/ac5aa374-7884-4023-8b27-39c94f89ee43)
+
+## PROJECT OBJECTIVE
 My aim in this project is to conduct a comprehensive sales analysis that will enable me to optimize profitability and regional performance for our product categories. To achieve this goal, I will:
 - Calculate and total sales and profit by product category, and identify the most and least profitable product categories.
 - Investigate consistent loss-generating categories.
@@ -7,7 +10,7 @@ My aim in this project is to conduct a comprehensive sales analysis that will en
   - Product categories
   - Regions
   
-### **Data Cleaning Process**
+### DATA CLEANING PROCESS
 1. **Dropped Columns:** In the initial phase, I removed the "row id" and "customer id" columns as they were unnecessary for our analysis. Additionally, I dropped the "country" column since all stores are located in the USA.
 
 2. **Duplicate Check:** I conducted a check for duplicate records, and fortunately, no duplicates were found in the dataset.
@@ -18,7 +21,7 @@ Profit : *=IF([@[Profit and Loss]]>0,[@[Profit and Loss]],0)*`
 
 Loss : *=IF([@[Profit and Loss]]<0,[@[Profit and Loss]],0)*`
 
-## RESULT AND FINDINGS
+### RESULT AND FINDINGS
 1. Total revenue and profit by product category: Examining revenue and profit by product category reveals that the technology category stands out, generating the highest revenue of $836,154.03, contributing to a substantial 41.59% of the company's profit. It is closely trailed by the office supplies category, with a revenue of $719,047.03, making up 40.47% of the company's profit. In contrast, the furniture category, although generating revenue of $741,718.42, accounts for approximately $79,387.38, representing 17.94% of the company's total profit.
 
  ![image](https://github.com/Motade/Superstore_Sales_Analysis/assets/114887240/09187ab9-15dc-47d5-8a09-bdda60d364e9)
