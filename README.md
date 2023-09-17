@@ -1,5 +1,5 @@
 
-## EXPLORATORY ANALYSIS OF SUPERSTORE SALES DATA
+## EXPLORATORY DATA ANALYSIS OF SUPERSTORE SALES DATA 
 ![Picture1](https://github.com/Motade/Superstore_Sales_Analysis/assets/114887240/ac5aa374-7884-4023-8b27-39c94f89ee43)
 
 ## PROJECT OBJECTIVE
@@ -43,9 +43,11 @@ Based on the insights, I recommend the following strategic actions to optimize p
 2. The Technology and Office Supplies categories, which are strong revenue contributors, should  be explored for opportunities by diversificating and investing in robust marketing campaigns.
 
 3. The West region's leading revenue generation should be sustained through continuous market monitoring and increased resource allocation. In contrast, the South region, with the lowest revenue, requires an analysis of local market conditions, customization of offerings, and potential partnerships or promotions for growth.
-[To interact with the dash board](https://motray-my.sharepoint.com/:x:/g/personal/motray_motray_onmicrosoft_com/EQKJXJCdIaRKsFHubvaxdIUBViDIHNV3Tv-Ts4vFfcARow?e=1yjgmn&nav=MTVfezlENzlFQTQ0LTI0RjUtNERCQy04RjU4LTgwQjdBN0E1RUM3OX0)
-
-Thank you
 
 
+To interact with the dash board [click here](https://motray-my.sharepoint.com/:x:/g/personal/motray_motray_onmicrosoft_com/EQKJXJCdIaRKsFHubvaxdIUBViDIHNV3Tv-Ts4vFfcARow?e=1yjgmn&nav=MTVfezlENzlFQTQ0LTI0RjUtNERCQy04RjU4LTgwQjdBN0E1RUM3OX0)
 
+
+Yours sincerely,
+
+Motunrayo Oguntade.
